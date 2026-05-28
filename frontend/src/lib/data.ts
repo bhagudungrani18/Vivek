@@ -5,7 +5,7 @@ export const biodata = {
   age: "23",
   caste: "Leuva Patel",
   religion: "Hindu",
-  height: "5'10",
+  height: "5'10''",
   weight: "67 Kg",
   qualification: "B.Com",
   occupation: "Gujarat Police",
