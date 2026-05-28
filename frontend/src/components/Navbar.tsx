@@ -178,9 +178,6 @@ export default function Navbar() {
                   <p className="text-sm text-text-muted text-center font-heading italic">
                     Rupani Family
                   </p>
-                  <p className="text-xs text-gold text-center mt-1 gujarati-text">
-                    ગુજરાતી સંસ્કાર
-                  </p>
                 </div>
               </div>
             </motion.div>
