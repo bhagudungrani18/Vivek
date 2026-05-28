@@ -35,7 +35,7 @@ export const biodata = {
       relation: "Father",
     },
     mother: {
-      name: "Nayanben Satishbhai Rupani",
+      name: "Nayanaben Satishbhai Rupani",
       relation: "Mother",
     },
     brother: {

@@ -149,7 +149,7 @@ export default function Hero() {
             Contact Family
           </button>
           <a
-            href="/biodata.pdf"
+            href="/Vivek Rupani.pdf.pdf"
             download
             className="inline-flex items-center gap-2 px-6 sm:px-8 py-3 text-sm sm:text-base text-text-muted hover:text-maroon border border-cream-dark hover:border-maroon/30 rounded-full transition-all hover:bg-cream w-full sm:w-auto justify-center"
           >
