@@ -11,7 +11,7 @@ export const biodata = {
   occupation: "Gujarat Police",
   hobbies: ["Playing Flute", "Piano", "Traveling"],
   address: "Surat, Gujarat",
-  nativePlace: "Botad",
+  nativePlace: "Chakmapar, Botad",
   tagline: "ગુજરાતી સંસ્કાર સાથે આધુનિક વિચાર",
   taglineEnglish: "Gujarati Values with Modern Vision",
 
@@ -54,9 +54,9 @@ export const biodata = {
   },
 
   contact: {
-    phone: "+91 99999 99999",
-    whatsapp: "+919999999999",
-    email: "rupanifamily@example.com",
+    phone: "+91 8141700378",
+    whatsapp: "+91 8141700378",
+    email: "[EMAIL_ADDRESS]",
   },
 
   gallery: [
