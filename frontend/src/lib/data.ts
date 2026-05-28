@@ -56,7 +56,7 @@ export const biodata = {
   contact: {
     phone: "+91 8141700378",
     whatsapp: "+91 8141700378",
-    email: "[EMAIL_ADDRESS]",
+    email: "vivekrupani2001@gmail.com",
   },
 
   gallery: [
